@@ -1,0 +1,116 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #9900FF;
+	font-family: monospace;
+}
+.container{
+	width: 1140px;
+	margin: 50px auto;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Aclonica', sans-serif;
+}
+.container h1{
+	padding: 50px;
+}
+.login-box{
+	width: 40%;
+	margin: 80px auto;
+	background-color: white;
+	padding: 60px;
+	text-align: center;
+}
+.login-box h2{
+	font-size: 32px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 52px;
+	display: block;
+	margin: 20px 0px;
+}
+
+.login-box .main-form{
+	width: 100%;
+	padding: 0px;
+}
+.login-box .main-form .option {
+    width: 50% padding: 8px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+    margin: auto;
+    text-align: center;
+    padding: px;
+    padding: 10px 5px;
+    font-size: 13px;
+    border-radius: 6px;
+}
+}
+.login-box .main-form .form-group{
+	width: 100%;
+	margin: 15px;
+	text-align: center; 
+}
+.login-box .main-form .form-group .form-control{
+	width: 70%;
+	padding: 10px;
+	font-size: 13px;
+	color: gray;
+    margin: 20px 17px 0px;
+} 
+
+.login-box .main-form .form-group .btn {
+    padding: 10px 45px;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600px;
+    width: 75%;
+    background-color: white;
+    color: blue;
+    border: 2px solid gray;
+    margin: 20px;
+    border-radius: 3px;
+}
+.login-box .main-form .form-group .btn:hover{
+	background-color: transparent;
+	border: 2px solid blue;
+	background-color: lightblue;
+	color: blue;
+	transition: 1s ease-in;
+	cursor: pointer;
+}
+.login-box .main-form .forget{
+	font-size: 14px;
+	padding-bottom: 18px;
+}
+.login-box .main-form .or{
+	padding-bottom: 13px;
+	text-align: center;
+	line-height: 0.1;
+	margin: 10px 0 20px;
+	font-size: 20px;
+	border-top: 1px solid #000; 
+}
+.login-box .main-form .or span{ 
+    background:#fff; 
+    padding:0 10px; 
+}
+.login-box .main-form .icon {
+    width: 100%
+ 	margin: 40px auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    border: 1px solid #08c;
+    background-color: cornflowerblue;
+    width: 68%;
+    margin-left: 67px;
+    margin-bottom: 35px;
+    text-decoration: none;
+}
+.login-box .main-form .signup{
+	margin-top: 15px;
+	text-decoration: none;
+}

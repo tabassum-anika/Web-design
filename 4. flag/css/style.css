@@ -1,0 +1,39 @@
+.{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    background: beige;
+}
+.wrapper{
+    width: 100%;
+}
+.bangladesh{
+    font-size: 25px;
+    color: darkblue;
+    text-align: center;
+}
+.wrapper .green{
+    width: 500px;
+    height: 250px;
+    margin-top: 50px;
+    margin: auto;
+    background: green;
+    position: relative;
+}
+.wrapper .red {
+    width: 150px;
+    height: 150px;
+    background: red;
+    border-radius: 100%;
+    position: absolute;
+    top: 19%;
+    left: 35%;
+}
+.pillar{
+    width: 20px;
+    height: 545px;
+    background: maroon;
+    float: left;
+    margin-left: 490px;
+}

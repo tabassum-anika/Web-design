@@ -1,0 +1,48 @@
+body{
+	background-color: whitesmoke;
+}
+.cv{
+	color: navy;
+	font-size: 40px;
+	font-family: font-family: 'Epilogue', sans-serif;
+}
+h2{
+	text-align: center;
+	font-family: font-family: 'Epilogue', sans-serif;
+
+}
+.pic{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.p1{
+	text-align: center;
+	font-family: 'Lora', serif;
+}
+.p2{
+	font-family: 'Lora', serif;
+	padding-left: 40px;
+}
+h3{
+	border: solid;
+	font-family: font-family: 'Epilogue', sans-serif;
+	border-radius: 5px;
+	border-spacing: 15px;
+	background-color: darkgrey;
+	padding: 8px;
+	font-weight: 16px;
+	color-profile: navy;
+}
+table, th, td{
+	width: 700px;
+	border-collapse: collapse;
+	border: 2px solid black;
+	margin: auto;
+	background: lightgray;
+	font-family: 'Lora', serif;
+}
+.list{
+	font-family: 'Lora', serif;
+	padding-left: 60px;
+}
